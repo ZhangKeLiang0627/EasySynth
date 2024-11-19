@@ -21,6 +21,6 @@
 ...
 
 ## Showcase
-<div align="center">  
-  <img src="/3.Pictures/video.mp4" alt="Showcase" />  
-</div>  
+
+https://github.com/user-attachments/assets/9b8095c0-6335-4cb5-b127-fa8c45a570bb
+
