@@ -9,8 +9,8 @@
 硬件开源地址：wait...
 
 ## Snapshots
-![](/3.Pictures/image-0.png)
-![](/3.Pictures/image-1.png)
+![](/3.Pictures/image-0.jpg)
+![](/3.Pictures/image-1.jpg)
 
 ## Introduction
 
